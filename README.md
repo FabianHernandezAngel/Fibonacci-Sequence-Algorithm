@@ -1,4 +1,4 @@
-# Fibonacci
+# Fibonacci Sequence Algorithm
 This project demonstrates a dynamic programming implementation of the Fibonacci sequence using memoization. Given a number n, the algorithm recursively calculates the nth Fibonacci number while caching results to avoid redundant computations.
 
 # Example
